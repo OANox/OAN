@@ -15,9 +15,9 @@
 
 
     .fotoescritorio {
-        background: url(../img/escritorio/fescritorio.jpg) no-repeat left;
+        background: url(../img/escritorio/escritorio.jpg) no-repeat left;
         width: 60%;
-        height: 660px;
+        height: 460px;
         box-shadow: 1px 1px 20px black;
     }
 
@@ -55,7 +55,7 @@
 
 
     .fotoescritorio {
-        background: url(../img/escritorio/fescritorio.jpg) no-repeat center;
+        background: url(../img/escritorio/escritorio.jpg) no-repeat center;
         width: 100%;
         max-width: 580px !important;
         height: 350px;

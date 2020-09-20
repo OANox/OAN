@@ -6,9 +6,9 @@
 }
 
 .fotodepoimentos01 {
-    background: url(../img/depoimentos/depoimento01.jpg) no-repeat center;
-    width: 150px;
-    height: 150px;
+    background: url(../img/depoimentos/depoimento001.png) no-repeat center;
+    width: 200px;
+    height: 200px;
     border: 5px solid rgb(255, 255, 255);
     box-shadow: 1px 1px 5px black;
     margin: 0 auto;
@@ -17,9 +17,9 @@
 }
 
 .fotodepoimentos02 {
-    background: url(../img/depoimentos/depoimento02.jpg) no-repeat center;
-    width: 150px;
-    height: 150px;
+    background: url(../img/depoimentos/depoimento002.png) no-repeat center;
+    width: 200px;
+    height: 200px;
     border: 5px solid rgb(255, 255, 255);
     box-shadow: 1px 1px 5px black;
     margin: 0 auto;
@@ -27,6 +27,16 @@
     margin-top: 2em;
 }
 
+.fotodepoimentos03 {
+    background: url(../img/depoimentos/depoimento003.png) no-repeat center;
+    width: 200px;
+    height: 200px;
+    border: 5px solid rgb(255, 255, 255);
+    box-shadow: 1px 1px 5px black;
+    margin: 0 auto;
+    border-radius: 50%;
+    margin-top: 2em;
+}
 .aspasdepoimento {
     color: #880000;
     font-size: .7em;

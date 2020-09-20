@@ -77,6 +77,21 @@
         margin: 0px 0px;
     }
 
+    .coan {
+        display: flex;
+        align-items: center;
+        justify-content: space-arond;
+        width: 47%;
+        cursor: pointer;
+        padding: 1em 1em;
+        background: rgba(121, 55, 55, 0.54);
+        margin-bottom: .5em !important;
+        transition: all .5s;
+        -moz-transition: all .5s;
+        -webkit-transition: all .5s;
+        margin: 0px 0px;
+    }
+
     .chamadaind:hover {
         transform: scale(1.05);
     }
